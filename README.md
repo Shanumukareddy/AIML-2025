@@ -4,7 +4,7 @@
 [Lab 02](https://github.com/Shanumukareddy/AIML-2025/blob/main/Lab%202.ipynb):Implement AI Search using Breadth First, Depth First and A* Search Algorithm using Python
 [Lab_03](https://github.com/Shanumukareddy/AIML-2025/blob/main/Lab%203.ipynb):Implement AI Game Strategy using MiniMax and Alpha-Beta Search Algorithms
 [Lab_04](https://github.com/Shanumukareddy/AIML-2025/blob/main/Lab%204.ipynb):Implement Linear Regression using Boston Housing Data
-[Lab_05]():Implement Logistic Regression using Titanic Ship Data
+[Lab_05](https://github.com/Shanumukareddy/AIML-2025/blob/main/Lab%205.ipynb):Implement Logistic Regression using Titanic Ship Data
 [Lab_06]():Implement K-Nearest Neighbor Classification using Classified Manufacturing Dataset
 [Lab_07]():Implement Support Vector Machine using Breast Cancer Data
 [Lab_08]():Implement Decision Tree Classifier using Lending Club Data

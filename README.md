@@ -8,5 +8,5 @@
 6. [Lab_06](https://github.com/Shanumukareddy/AIML-2025/blob/main/Lab%206.ipynb):Implement K-Nearest Neighbor Classification using Classified Manufacturing Dataset
 7. [Lab_07](https://github.com/Shanumukareddy/AIML-2025/blob/main/Lab%207.ipynb):Implement Support Vector Machine using Breast Cancer Data
 8. [Lab_08](https://github.com/Shanumukareddy/AIML-2025/blob/main/Lab%208.ipynb):Implement Decision Tree Classifier using Lending Club Data
-9. [Lab_09]():Implement Random Forest Ensemble Classifier using Lending Club Data
+9. [Lab_09](https://github.com/Shanumukareddy/AIML-2025/blob/main/Lab%209.ipynb):Implement Random Forest Ensemble Classifier using Lending Club Data
 10. [Lab_10]():Implement K-Means Clustering using Iris Data
